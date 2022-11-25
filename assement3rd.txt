@@ -1,0 +1,4 @@
+3.1 Use reverse-i-search to find past commands.
+3.2 To display only the hidden files and directories, the simplest approach is to show the hidden files with ls -a .
+3.3 yes i am aware of the linux oerating system, beginning level.
+3.4 yes i used apache tomcat server to host simple web application or project.
